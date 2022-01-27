@@ -75,8 +75,4 @@ namespace DesignPatterns.Creational_Patterns
         }
     }
     #endregion
-
-
-    class AbstractFactory {
-    }
 }
