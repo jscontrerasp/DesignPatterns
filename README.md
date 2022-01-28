@@ -6,3 +6,4 @@ I will explain the patterns list found in the GoF book.
 ## Creational Patterns
 Abstract Factory
 Factory
+Builder
